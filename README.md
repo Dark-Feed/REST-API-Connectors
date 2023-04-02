@@ -4,7 +4,7 @@ REST-API Adapters for DarkFeed.io
 
 
 
-![Screenshot](screenshot.png)
+![Screenshot](Example.png)
 
 
 
