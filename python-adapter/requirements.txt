@@ -1,0 +1,4 @@
+termcolor
+prettytable
+requests
+pdfkit
