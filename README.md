@@ -1,8 +1,5 @@
 # DarkFeed Adapter
-REST-API Adapters for DarkFeed.io
-
-
-
+REST-API Adapters for DarkFeed.io By Mauro Eldritch (Birmingham Cyber Arms LTD)
 
 ![Screenshot](Example.png)
 
