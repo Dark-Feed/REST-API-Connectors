@@ -4,9 +4,6 @@ REST-API Adapters for DarkFeed.io By Mauro Eldritch (Birmingham Cyber Arms LTD)
 ![Screenshot](Adapter-List.png)
 
 
-![Screenshot](Adapter-Table.png)
-
-
 # About DarkFeed.io Adapters
 
 This repository contains Ruby and Python adapters for DarkFeed's API, which work with any kind of subscription (Free/Premium).
